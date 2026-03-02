@@ -7,7 +7,6 @@
 
 
 <div align="center">
-  <h2>About Me</h2>
   <p>
     🎓 Information Technology student at <b>University of Cincinnati</b><br>
     ☁️ Certified AWS Solutions Architect Associate<br>
