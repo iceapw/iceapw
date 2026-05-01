@@ -1,4 +1,4 @@
-<br clear="both">
+<!-- <br clear="both">
 
 <div align="center">
   <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkzM2F2dXJtcHVsZTQ3dzl3NXR4MXl6dDd5bzI4czIxbnQ5MDh1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5quAQha5cHPayUytEh/giphy.gif"  />
@@ -18,4 +18,4 @@
 </div>
   </p>
 </div>
-
+ -->
